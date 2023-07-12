@@ -1,5 +1,6 @@
-Welcome to Lumache's documentation!
+Constraining AI Engine Designs 
 ===================================
+This guide details the methods used to constrain AI Engine designs. It starts by briefly describing the Ai Engine architecture and programming model followed by an indepth view of the AI Engine constraints and methodologies.  
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
